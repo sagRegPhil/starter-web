@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work
 This is the test introduction added by Sagaya
 
 ## Purpose
+Test purpose added for file comparison
 
 ## Deployment
 
