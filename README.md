@@ -8,6 +8,7 @@ This is the test introduction added by Sagaya
 Test purpose added for file comparison
 
 ## Deployment
+Deployment step added after 3 edits
 
 Sample website with plenty of files for demos
 ## How to contribute
