@@ -1,0 +1,15 @@
+Irappa discussed on the 
+1. Progress on Salesforce work.
+2. Would want to see the CI/CD Workflow. Client to agree on the process.
+3. Required documentation on UI Standards guidelines that the team should adhere.
+4. Coding Standards to covering all required.
+5. Access to IQVIA team(All participants of DevOps Meeting).
+6. GIT to be transffered to confluence.
+7. Arch to be onboard (@Alok & @Poornima) while discussing on Architecture diagram.
+8. Discussion on Branching and the ownership in case if it is not trunk based.
+9. Plan for resources. Engineering team to start Salesforce work.  
+   - creation of Stories 
+   - creating backlog (Engineering and product management) and its format. 
+10 Engineering team to start-up on Salesforce on from Thursday.
+11. To connect on Friday 4pm  to discuss the scope for POC.
+12. Would like to meet the team for the status meeting. 
