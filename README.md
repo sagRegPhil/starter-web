@@ -16,3 +16,6 @@ Deployment step added after 3 edits
 Sample website with plenty of files for demos
 ## How to contribute
 Contribute changes only in working directory
+
+##Copyright notice
+Added for Disable Fast-Forward Merge
